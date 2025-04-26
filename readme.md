@@ -24,7 +24,7 @@ O projeto como ja foi falado é um portifólio para melhor apresentação e most
 
 ### Captura de Tela
 
-![](./screenshot.jpg)
+![](./Portifolio-Projeto-OnePage.jpg)
 
 ### Links
 
