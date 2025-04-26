@@ -1,6 +1,6 @@
 # Portifólio Maxs
 
-É um projeto de criação web de um portifólio para me apresentar melhor e futuramente arranjar emprego kkk (obs: sou iniciante em programação ainda)(V.01)
+É um projeto de criação web de um portifólio para me apresentar melhor e futuramente arranjar emprego kkk (obs: sou iniciante em programação ainda, e o projeto está em desenvolvimento/não completo)(V.01)
 
 ## Índice
 
